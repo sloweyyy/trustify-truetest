@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to pricing",
+        "step 2: Click on header pricingTable",
+        "step 3: Click on button pricingActions (registerNow)",
+        "step 4: Click on button pricingActions (contactSupport)",
+        "step 5: Click on header priceDetails",
+        "step 6: Click on header priceDetails",
+        "step 7: Click on header priceDetails",
+        "step 8: Click on header priceDetails",
+        "step 9: Click on header priceDetails",
+        "step 10: Click on header priceDetails",
+        "step 11: Click on header priceDetails",
+        "step 12: Click on div pricingTable -> Navigate to page ''",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on link signIn -> Navigate to page 'signin'",
+        "step 3: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'",
+        "step 4: Click on div serviceOptions",
+        "step 5: Click on input serviceSelection (selectService)",
+        "step 6: Click on input serviceSelection (selectService)",
+        "step 7: Click on span serviceList -> Navigate to page 'user profile#user/*'",
+        "step 8: Click on tr profileCheckbox",
+        "step 9: Click on div backdrop",
+        "step 10: Click on span serviceInfo (publicService)",
+        "step 11: Click on span resource -> Navigate to page 'user/document-wallet'",
+        "step 12: Click on button resourceActions (viewResource)",
+        "step 13: Click on button close",
+        "step 14: Click on div documentDetails",
+        "step 15: Click on div pdfIcon",
+        "step 16: Click on button close",
+        "step 17: Click on button resourceActions (shareResource)",
+        "step 18: Click on input emailRecipient",
+        "step 19: Click on div object",
+        "step 20: Click on button sidebarToggle -> Navigate to page ''",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

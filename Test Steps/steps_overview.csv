@@ -1,0 +1,122 @@
+Flow ID,Name,Description,Test Steps,Flow Priority,Status
+3,Verify Pricing Table and Actions on Pricing Page,"Navigate to pricing page, interact with pricing table headers and actions, and verify navigation back to home.","Step 1: Navigate to pricing
+Step 2: Click on header pricingTable
+Step 3: Click on button pricingActions (registerNow)
+Step 4: Click on button pricingActions (contactSupport)
+Step 5: Click on header priceDetails
+Step 6: Click on header priceDetails
+Step 7: Click on header priceDetails
+Step 8: Click on header priceDetails
+Step 9: Click on header priceDetails
+Step 10: Click on header priceDetails
+Step 11: Click on header priceDetails
+Step 12: Click on div pricingTable -> Navigate to page ''
+Step 13: Take full page screenshot as checkpoint
+",High,NEW
+4,Simple Navigation and Verification on Home Page,Navigate to home and click next buttons while verifying the home page.,"Step 1: Navigate to /
+Step 2: Click on button next
+Step 3: Click on button next -> Navigate to page ''
+Step 4: Take full page screenshot as checkpoint
+",High,NEW
+1,Navigate and Interact with User Profile and Document Wallet,"Navigate to home, sign in, create a notarization profile, select services, and manage documents in the wallet.","Step 1: Navigate to /
+Step 2: Click on link signIn -> Navigate to page 'signin'
+Step 3: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'
+Step 4: Click on div serviceOptions
+Step 5: Click on input serviceSelection (selectService)
+Step 6: Click on input serviceSelection (selectService)
+Step 7: Click on span serviceList -> Navigate to page 'user profile#user/*'
+Step 8: Click on tr profileCheckbox
+Step 9: Click on div backdrop
+Step 10: Click on span serviceInfo (publicService)
+Step 11: Click on span resource -> Navigate to page 'user/document-wallet'
+Step 12: Click on button resourceActions (viewResource)
+Step 13: Click on button close
+Step 14: Click on div documentDetails
+Step 15: Click on div pdfIcon
+Step 16: Click on button close
+Step 17: Click on button resourceActions (shareResource)
+Step 18: Click on input emailRecipient
+Step 19: Click on div object
+Step 20: Click on button sidebarToggle -> Navigate to page ''
+Step 21: Take full page screenshot as checkpoint
+",Medium,NEW
+2,Create Public Profile and Submit User Details for Verification,"Navigate to home, create a public profile, input user details, select resources, and manage document processing.","Step 1: Navigate to /
+Step 2: Click on button createPublicProfile
+Step 3: Click on button createPublicProfile2
+Step 4: Click on button createPublicProfile2
+Step 5: Click on button createPublicProfile2
+Step 6: Click on button createPublicProfile2
+Step 7: Click on button createPublicProfile2
+Step 8: Click on button createPublicProfile2
+Step 9: Click on button createPublicProfile2
+Step 10: Click on button createPublicProfile2
+Step 11: Click on button createPublicProfile2
+Step 12: Click on button createPublicProfile2
+Step 13: Click on button createPublicProfile2
+Step 14: Click on button createPublicProfile2
+Step 15: Click on button createPublicProfile2
+Step 16: Click on button createPublicProfile2
+Step 17: Click on button createPublicProfile2
+Step 18: Click on button createPublicProfile2
+Step 19: Click on button createPublicProfile2
+Step 20: Click on button createPublicProfile2
+Step 21: Click on link signIn -> Navigate to page 'signin'
+Step 22: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'
+Step 23: Click on div object
+Step 24: Click on input serviceSelection (selectService)
+Step 25: Click on item serviceOptions (selectPublicService)
+Step 26: Click on input serviceSelection (selectService2)
+Step 27: Click on item serviceOptions (selectOption)
+Step 28: Click on button formActions (continue)
+Step 29: Click on input amount
+Step 30: Click on input amount
+Step 31: Click on input amount
+Step 32: Enter input value in input amount
+Step 33: Click on input userDetails (fullName)
+Step 34: Enter input value in input userDetails (fullName)
+Step 35: Enter input value in input userDetails (phoneNumber)
+Step 36: Enter input value in input userDetails (email)
+Step 37: Click on input userDetails (phoneNumber)
+Step 38: Click on input userDetails (phoneNumber)
+Step 39: Click on input userDetails (phoneNumber)
+Step 40: Enter input value in input userDetails (phoneNumber)
+Step 41: Click on input userDetails (citizenId)
+Step 42: Enter input value in input userDetails (citizenId)
+Step 43: Click on label resourceSelection (selectResource)
+Step 44: Click on item selectFromMachine
+Step 45: Click on label selectFile
+Step 46: Click on item selectFromMachine
+Step 47: Click on label resourceSelection (selectFile2)
+Step 48: Click on item selectFromMachine
+Step 49: Click on button formActions (continue2)
+Step 50: Click on button formActions (retry)
+Step 51: Click on input userDetails (citizenId2)
+Step 52: Click on input userDetails (email2)
+Step 53: Enter input value in input userDetails (email2)
+Step 54: Click on input userDetails (citizenId2)
+Step 55: Click on input userDetails (citizenId2)
+Step 56: Enter input value in input userDetails (citizenId2)
+Step 57: Click on input userDetails (phoneNumber2)
+Step 58: Enter input value in input userDetails (phoneNumber2)
+Step 59: Enter input value in input userDetails (fullName2)
+Step 60: Click on p citizenIdRequired
+Step 61: Click on input userDetails (phoneNumber2)
+Step 62: Click on input userDetails (phoneNumber2)
+Step 63: Click on input userDetails (phoneNumber2)
+Step 64: Click on input userDetails (phoneNumber2)
+Step 65: Enter input value in input userDetails (phoneNumber2)
+Step 66: Click on input userDetails (fullName2)
+Step 67: Enter input value in input userDetails (fullName2)
+Step 68: Click on button formActions (continue2)
+Step 69: Click on button formActions (submitRequest)
+Step 70: Click on span serviceList -> Navigate to page 'user profile#user/*'
+Step 71: Click on tr processingDocument
+Step 72: Click on p cancelDocument
+Step 73: Click on p statusMessages (processing)
+Step 74: Click on p statusMessages (processing)
+Step 75: Click on span verifying
+Step 76: Click on p statusMessages (readyToSign)
+Step 77: Click on item congChung
+Step 78: Click on span serviceInfo (resource2) -> Navigate to page ''
+Step 79: Take full page screenshot as checkpoint
+",Trivial,NEW
