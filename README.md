@@ -1,0 +1,1 @@
+# For Katalon TrueTest project
