@@ -30,6 +30,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>KeyboardDoubleArrowLeftIcon</value>
-        <webElementGuid>60ebe38b-e315-4302-a2dc-df8a54ac7954</webElementGuid>
+        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

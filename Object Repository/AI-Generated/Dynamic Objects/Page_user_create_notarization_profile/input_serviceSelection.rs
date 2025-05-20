@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@id,':r0:') and equals(@type,'text')]</value>
+            <value>//*[equals(@id,':rg:') and equals(@type,'text')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -29,8 +29,8 @@
         <matchCondition>equals</matchCondition>
         <name>id</name>
         <type>Main</type>
-        <value>:r0:</value>
-        <webElementGuid>60ebe38b-e315-4302-a2dc-df8a54ac7954</webElementGuid>
+        <value>:rg:</value>
+        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
         <name>type</name>
         <type>Main</type>
         <value>text</value>
-        <webElementGuid>60ebe38b-e315-4302-a2dc-df8a54ac7954</webElementGuid>
+        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

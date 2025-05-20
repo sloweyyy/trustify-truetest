@@ -1,0 +1,10 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Repeatedly click to create a public profile multiple times",
+        "step 3: Click on button createPublicProfile",
+        "step 4: Click on link signIn -> Navigate to page 'signin'",
+        "step 5: Click on button signInWithGoogle -> Navigate to page ''",
+        "step 6: Take full page screenshot as checkpoint"
+    ]
+}

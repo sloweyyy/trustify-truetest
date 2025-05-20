@@ -1,24 +1,280 @@
 Flow ID,Name,Description,Test Steps,Flow Priority,Status
-3,Verify Pricing Table and Actions on Pricing Page,"Navigate to pricing page, interact with pricing table headers and actions, and verify navigation back to home.","Step 1: Navigate to pricing
+3,View Pricing and Contact Support,"Navigate to pricing, view pricing details, register now, and contact support before returning to home page.","Step 1: Navigate to pricing
 Step 2: Click on header pricingTable
-Step 3: Click on button pricingActions (registerNow)
-Step 4: Click on button pricingActions (contactSupport)
-Step 5: Click on header priceDetails
-Step 6: Click on header priceDetails
-Step 7: Click on header priceDetails
-Step 8: Click on header priceDetails
-Step 9: Click on header priceDetails
-Step 10: Click on header priceDetails
-Step 11: Click on header priceDetails
-Step 12: Click on div pricingTable -> Navigate to page ''
-Step 13: Take full page screenshot as checkpoint
+Step 3: Click on button registerNow
+Step 4: Click on button contactSupport
+Step 5: Click to view price details multiple times
+	- Step 1: Click on header priceDetails
+	- Step 2: Click on header priceDetails
+	- Step 3: Click on header priceDetails
+	- Step 4: Click on header priceDetails
+	- Step 5: Click on header priceDetails
+	- Step 6: Click on header priceDetails
+	- Step 7: Click on header priceDetails
+Step 6: Click on list features -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
 ",High,NEW
-4,Simple Navigation and Verification on Home Page,Navigate to home and click next buttons while verifying the home page.,"Step 1: Navigate to /
+10,Sign In Navigation Verification,Navigate to home and sign in to verify the home page.,"Step 1: Navigate to /
+Step 2: Click on link signIn2 -> Navigate to page ''
+Step 3: Take full page screenshot as checkpoint
+",High,NEW
+11,View Pricing and Register for Services,"Navigate to pricing, register for services, and view pricing details before verifying the home page.","Step 1: Navigate to pricing
+Step 2: Click on header pricingTable
+Step 3: Click on button registerNow2
+Step 4: Click on button registerNow3
+Step 5: Click to view price details multiple times
+	- Step 1: Click on header priceDetails
+	- Step 2: Click on header priceDetails
+	- Step 3: Click on header priceDetails
+	- Step 4: Click on header priceDetails
+	- Step 5: Click on header priceDetails
+	- Step 6: Click on header priceDetails
+	- Step 7: Click on header priceDetails
+Step 6: Click on span pricingFeatures (accountLimit) -> Navigate to page ''
+Step 7: Take full page screenshot as checkpoint
+",High,NEW
+1,Create Public Profile and Sign In with Google,"Navigate to home, create a public profile multiple times, sign in with Google, and verify home page.","Step 1: Navigate to /
+Step 2: Repeatedly click to create a public profile multiple times
+	- Step 1: Click on button createPublicProfile2
+	- Step 2: Click on button createPublicProfile
+	- Step 3: Click on button createPublicProfile
+	- Step 4: Click on button createPublicProfile
+	- Step 5: Click on button createPublicProfile
+	- Step 6: Click on button createPublicProfile
+	- Step 7: Click on button createPublicProfile
+	- Step 8: Click on button createPublicProfile
+	- Step 9: Click on button createPublicProfile
+	- Step 10: Click on button createPublicProfile
+	- Step 11: Click on button createPublicProfile
+	- Step 12: Click on button createPublicProfile
+	- Step 13: Click on button createPublicProfile
+	- Step 14: Click on button createPublicProfile
+	- Step 15: Click on button createPublicProfile
+	- Step 16: Click on button createPublicProfile
+	- Step 17: Click on button createPublicProfile
+	- Step 18: Click on button createPublicProfile
+Step 3: Click on button createPublicProfile
+Step 4: Click on link signIn -> Navigate to page 'signin'
+Step 5: Click on button signInWithGoogle -> Navigate to page ''
+Step 6: Take full page screenshot as checkpoint
+",Medium,NEW
+2,Navigate Home and Click Next Buttons,Navigate to home and click the next buttons multiple times to verify the home page.,"Step 1: Navigate to /
 Step 2: Click on button next
-Step 3: Click on button next -> Navigate to page ''
+Step 3: Click on button next
 Step 4: Take full page screenshot as checkpoint
-",High,NEW
-1,Navigate and Interact with User Profile and Document Wallet,"Navigate to home, sign in, create a notarization profile, select services, and manage documents in the wallet.","Step 1: Navigate to /
+",Medium,NEW
+5,Explore Pricing and Manage Documents,"Navigate to pricing, view details, register, and manage documents before returning to home page.","Step 1: Navigate to pricing
+Step 2: Click on header pricingTable
+Step 3: Click on button registerNow
+Step 4: Click on button contactSupport
+Step 5: Click to view price details multiple times
+	- Step 1: Click on header priceDetails
+	- Step 2: Click on header priceDetails
+	- Step 3: Click on header priceDetails
+	- Step 4: Click on header priceDetails
+	- Step 5: Click on header priceDetails
+	- Step 6: Click on header priceDetails
+	- Step 7: Click on header priceDetails
+Step 6: Click on div pricingTable
+Step 7: Click on link trustify -> Navigate to page '/'
+Step 8: Click on span price -> Navigate to page 'pricing'
+Step 9: Click on span pricingDetails (taiLieuUuTien)
+Step 10: Click on span pricingDetails (taiLieuUuTien)
+Step 11: Click on span pricingDetails (taiLieuUuTien)
+Step 12: Click on span pricingDetails (toiDa5TaiKhoan)
+Step 13: Click on span pricingDetails (toiDa5TaiKhoan)
+Step 14: Click on span pricingDetails (toiDa5TaiKhoan)
+Step 15: Click on span pricingDetails (tuyChonThanhToan)
+Step 16: Click on span pricingDetails (tuyChonThanhToan)
+Step 17: Click on span pricingDetails (tuyChonThanhToan)
+Step 18: Click on span pricingDetails (troTroTieuChuan)
+Step 19: Click on span pricingDetails (troTroTieuChuan)
+Step 20: Click on span pricingDetails (troTroTieuChuan)
+Step 21: Click on span pricingFeatures (troTroUuTien247)
+Step 22: Click on span pricingFeatures (baoCaoToanDien)
+Step 23: Click on span pricingFeatures (baoCaoToanDien)
+Step 24: Click on span pricingFeatures (baoCaoToanDien)
+Step 25: Click on span pricingFeatures (nftKhongGioiHan)
+Step 26: Click on span pricingFeatures (nftKhongGioiHan)
+Step 27: Click on span pricingFeatures (nftKhongGioiHan)
+Step 28: Click on list features
+Step 29: Click on span pricingFeatures (congCuAinangCao)
+Step 30: Click on span pricingFeatures (congCuAinangCao)
+Step 31: Click on span pricingFeatures (congCuAinangCao)
+Step 32: Click on span pricingFeatures (baoCaoToanDien)
+Step 33: Click on button registerNow
+Step 34: Click on span danhChoVpcc -> Navigate to page 'for-notary-offices'
+Step 35: Click on link traCuuHoSoCongChung -> Navigate to page '*/dashboard'
+Step 36: Click on span taiLieuChodXacNhan -> Navigate to page 'notary document management#*/*'
+Step 37: Click on button xemChiTiet
+Step 38: Click on p documentNumber
+Step 39: Click on p documentNumber -> Navigate to page ''
+Step 40: Take full page screenshot as checkpoint
+",Medium,NEW
+6,Verify Resource Verification and Document Management,"Log in, verify resources, manage documents, and confirm actions in document management.","Step 1: Navigate to signin
+Step 2: Login -> Navigate to page '*/dashboard'
+Step 3: Click on item resourceVerification -> Navigate to page 'notary document management#*/*'
+Step 4: Click on span infoIcon
+Step 5: Click on div identityDocument
+Step 6: Click on p identityDocument
+Step 7: Click on textarea noteContent
+Step 8: Click on textarea noteContent
+Step 9: Enter input value in textarea noteContent
+Step 10: Click on div fileUploadInstructions
+Step 11: Click on button fileUpload
+Step 12: Click on textarea noteContent
+Step 13: Click on textarea noteContent
+Step 14: Enter input value in textarea noteContent
+Step 15: Click on div emptyInput
+Step 16: Enter input value in textarea noteContent
+Step 17: Click on button fileUpload2
+Step 18: Click on button confirm
+Step 19: Click on span resourceSignature
+Step 20: Click on div signatureIcon
+Step 21: Click on button xemChiTiet2
+Step 22: Click on image signature
+Step 23: Click on button confirm2
+Step 24: Click on div confirmationModal
+Step 25: Click on div backdrop
+Step 26: Click on span documentManagement (quanLyPhien) -> Navigate to page 'notary management#*/*'
+Step 27: Click on button sloweyCongChung
+Step 28: Click on div backdrop
+Step 29: Click on button sloweyCongChung
+Step 30: Click on textarea noiDungGhiChu
+Step 31: Click on div backdrop
+Step 32: Click on span lichSuCongChung -> Navigate to page ''
+Step 33: Take full page screenshot as checkpoint
+",Low,NEW
+9,Document Management and Task Completion,"Log in, manage documents, view details, and complete tasks in document management.","Step 1: Navigate to signin
+Step 2: Login -> Navigate to page '*/dashboard'
+Step 3: Enter input value in input password
+Step 4: Click on span taiLieuChodXacNhan -> Navigate to page 'notary document management#*/*'
+Step 5: Click on item document
+Step 6: Click on span documentManagement (quanLyPhien) -> Navigate to page 'notary management#*/*'
+Step 7: Click on button sloweyCongChung2
+Step 8: Click on div backdrop
+Step 9: Click on span lichSuCongChung
+Step 10: Click on span dashboard -> Navigate to page '*/dashboard'
+Step 11: Click on span dashboard
+Step 12: Click on span taiLieuChodXacNhan -> Navigate to page 'notary document management#*/*'
+Step 13: Click on div documentDetails
+Step 14: Click on button viewDetails (viewDetails)
+Step 15: Click on textarea noteContent2
+Step 16: Click on div backdrop
+Step 17: Click on html object
+Step 18: Click on html object
+Step 19: Click on span dashboard -> Navigate to page '*/dashboard'
+Step 20: Click on div userDetails
+Step 21: Click on html dashboard
+Step 22: Click on span taiLieuChodXacNhan -> Navigate to page 'notary document management#*/*'
+Step 23: Click on button viewDetails (viewDetails)
+Step 24: Click on textarea noteContent3
+Step 25: Enter input value in textarea noteContent3
+Step 26: Click on div uploadFile
+Step 27: Click on button confirm
+Step 28: Click on html object
+Step 29: Click on span resourceSignature
+Step 30: Click on html documentManagement
+Step 31: Click on button viewDetails (viewDetails2)
+Step 32: Click on p documentName
+Step 33: Click on div backdrop
+Step 34: Click on button viewDetails (viewDetails3)
+Step 35: Click on div backdrop
+Step 36: Click on button xemChiTiet2
+Step 37: Click on p originalDocument
+Step 38: Click on button confirm2
+Step 39: Click on html documentManagement2
+Step 40: Click on html documentManagement2
+Step 41: Click on span documentManagement (publicServiceHistory) -> Navigate to page 'notary management#*/*'
+Step 42: Click on button taskCompletion (completeTask)
+Step 43: Click on div backdrop
+Step 44: Click on button taskCompletion (completeTask2)
+Step 45: Click on div backdrop -> Navigate to page ''
+Step 46: Take full page screenshot as checkpoint
+",Low,NEW
+4,Create Public Profile and Request Notarization Action,"Create a public profile, sign in, select service options, input details, and request notarization actions.","Step 1: Navigate to /
+Step 2: Repeatedly click to create a public profile multiple times
+	- Step 1: Click on button createPublicProfile2
+	- Step 2: Click on button createPublicProfile
+	- Step 3: Click on button createPublicProfile
+	- Step 4: Click on button createPublicProfile
+	- Step 5: Click on button createPublicProfile
+	- Step 6: Click on button createPublicProfile
+	- Step 7: Click on button createPublicProfile
+	- Step 8: Click on button createPublicProfile
+	- Step 9: Click on button createPublicProfile
+	- Step 10: Click on button createPublicProfile
+	- Step 11: Click on button createPublicProfile
+	- Step 12: Click on button createPublicProfile
+	- Step 13: Click on button createPublicProfile
+	- Step 14: Click on button createPublicProfile
+	- Step 15: Click on button createPublicProfile
+	- Step 16: Click on button createPublicProfile
+	- Step 17: Click on button createPublicProfile
+	- Step 18: Click on button createPublicProfile
+Step 3: Click on button createPublicProfile
+Step 4: Click on link signIn -> Navigate to page 'signin'
+Step 5: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'
+Step 6: Click on div object
+Step 7: Select service options and request action with specified amount
+	- Step 1: Click on input serviceSelection
+	- Step 2: Click on item optionSelection
+	- Step 3: Click on input serviceSelection
+	- Step 4: Click on item optionSelection
+	- Step 5: Click on button requestActions
+	- Step 6: Click on input amount
+	- Step 7: Click on input amount
+Step 8: Click on input amount
+Step 9: Enter input value in input amount
+Step 10: Click on input fullName
+Step 11: Enter input value in input fullName
+Step 12: Enter input value in input phoneNumber
+Step 13: Enter input value in input email
+Step 14: Click on input phoneNumber
+Step 15: Click on input phoneNumber
+Step 16: Click on input phoneNumber
+Step 17: Enter input value in input phoneNumber
+Step 18: Click on input citizenId
+Step 19: Enter input value in input citizenId
+Step 20: Click on label fileSelection (selectResource)
+Step 21: Click on item selectFromMachine
+Step 22: Click on label fileSelection (selectFile)
+Step 23: Click on item selectFromMachine
+Step 24: Click on label fileSelection (selectFile2)
+Step 25: Click on item selectFromMachine
+Step 26: Click on button requestActions (continue)
+Step 27: Click on button requestActions (retry)
+Step 28: Click on input citizenId2
+Step 29: Click on input email2
+Step 30: Enter input value in input email2
+Step 31: Click on input citizenId2
+Step 32: Click on input citizenId2
+Step 33: Enter input value in input citizenId2
+Step 34: Click on input phoneNumber2
+Step 35: Enter input value in input phoneNumber2
+Step 36: Enter input value in input fullName2
+Step 37: Click on p citizenIdRequired
+Step 38: Click on input phoneNumber2
+Step 39: Click on input phoneNumber2
+Step 40: Click on input phoneNumber2
+Step 41: Click on input phoneNumber2
+Step 42: Enter input value in input phoneNumber2
+Step 43: Click on input fullName2
+Step 44: Enter input value in input fullName2
+Step 45: Click on button requestActions (continue)
+Step 46: Click on button requestActions (submitRequest)
+Step 47: Click on span serviceList -> Navigate to page 'user profile#user/*'
+Step 48: Click on tr processingDocument
+Step 49: Click on p cancelDocument
+Step 50: Click on p statusIndicators (processing)
+Step 51: Click on p statusIndicators (processing)
+Step 52: Click on span verifying
+Step 53: Click on p statusIndicators (readyToSign)
+Step 54: Click on item congChung
+Step 55: Click on span serviceInformation (resource) -> Navigate to page ''
+Step 56: Take full page screenshot as checkpoint
+",Trivial,NEW
+7,Create Notarization Profile and Manage Resources,"Create a notarization profile, select services, input details, request actions, and manage resources.","Step 1: Navigate to /
 Step 2: Click on link signIn -> Navigate to page 'signin'
 Step 3: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'
 Step 4: Click on div serviceOptions
@@ -27,8 +283,8 @@ Step 6: Click on input serviceSelection (selectService)
 Step 7: Click on span serviceList -> Navigate to page 'user profile#user/*'
 Step 8: Click on tr profileCheckbox
 Step 9: Click on div backdrop
-Step 10: Click on span serviceInfo (publicService)
-Step 11: Click on span resource -> Navigate to page 'user/document-wallet'
+Step 10: Click on span serviceInformation (publicService)
+Step 11: Click on span resource2 -> Navigate to page 'user/document-wallet'
 Step 12: Click on button resourceActions (viewResource)
 Step 13: Click on button close
 Step 14: Click on div documentDetails
@@ -37,86 +293,247 @@ Step 16: Click on button close
 Step 17: Click on button resourceActions (shareResource)
 Step 18: Click on input emailRecipient
 Step 19: Click on div object
-Step 20: Click on button sidebarToggle -> Navigate to page ''
-Step 21: Take full page screenshot as checkpoint
-",Medium,NEW
-2,Create Public Profile and Submit User Details for Verification,"Navigate to home, create a public profile, input user details, select resources, and manage document processing.","Step 1: Navigate to /
-Step 2: Click on button createPublicProfile
-Step 3: Click on button createPublicProfile2
-Step 4: Click on button createPublicProfile2
-Step 5: Click on button createPublicProfile2
-Step 6: Click on button createPublicProfile2
-Step 7: Click on button createPublicProfile2
-Step 8: Click on button createPublicProfile2
-Step 9: Click on button createPublicProfile2
-Step 10: Click on button createPublicProfile2
-Step 11: Click on button createPublicProfile2
-Step 12: Click on button createPublicProfile2
-Step 13: Click on button createPublicProfile2
-Step 14: Click on button createPublicProfile2
-Step 15: Click on button createPublicProfile2
-Step 16: Click on button createPublicProfile2
-Step 17: Click on button createPublicProfile2
-Step 18: Click on button createPublicProfile2
-Step 19: Click on button createPublicProfile2
-Step 20: Click on button createPublicProfile2
-Step 21: Click on link signIn -> Navigate to page 'signin'
-Step 22: Click on button signInWithGoogle -> Navigate to page 'user/create-notarization-profile'
-Step 23: Click on div object
-Step 24: Click on input serviceSelection (selectService)
-Step 25: Click on item serviceOptions (selectPublicService)
-Step 26: Click on input serviceSelection (selectService2)
-Step 27: Click on item serviceOptions (selectOption)
-Step 28: Click on button formActions (continue)
-Step 29: Click on input amount
-Step 30: Click on input amount
-Step 31: Click on input amount
-Step 32: Enter input value in input amount
-Step 33: Click on input userDetails (fullName)
-Step 34: Enter input value in input userDetails (fullName)
-Step 35: Enter input value in input userDetails (phoneNumber)
-Step 36: Enter input value in input userDetails (email)
-Step 37: Click on input userDetails (phoneNumber)
-Step 38: Click on input userDetails (phoneNumber)
-Step 39: Click on input userDetails (phoneNumber)
-Step 40: Enter input value in input userDetails (phoneNumber)
-Step 41: Click on input userDetails (citizenId)
-Step 42: Enter input value in input userDetails (citizenId)
-Step 43: Click on label resourceSelection (selectResource)
+Step 20: Click on button sidebarToggle -> Navigate to page 'user profile#user/*'
+Step 21: Click on div addCircleIcon -> Navigate to page 'user/create-notarization-profile'
+Step 22: Click on button sidebarToggle
+Step 23: Click on div chonLoaiCongChung
+Step 24: Click on input serviceSelection (chonLinhVucCongChung)
+Step 25: Click on div object
+Step 26: Click on item optionSelection (linhVucCongChungOption)
+Step 27: Select service options and request action with specified amount
+	- Step 1: Click on input serviceSelection
+	- Step 2: Click on item optionSelection
+	- Step 3: Click on input serviceSelection
+	- Step 4: Click on item optionSelection
+	- Step 5: Click on button requestActions
+	- Step 6: Click on input amount
+	- Step 7: Click on input amount
+Step 28: Enter input value in input amount2
+Step 29: Press key Tab on input amount2
+Step 30: Enter input value in input fullName3
+Step 31: Press key Tab on input fullName3
+Step 32: Click on input phoneNumber3
+Step 33: Enter input value in input phoneNumber3
+Step 34: Press key Tab on input phoneNumber3
+Step 35: Enter input value in input citizenId3
+Step 36: Press key Tab on input citizenId3
+Step 37: Enter input value in input email3
+Step 38: Press key Tab on input email3
+Step 39: Click on label selectFile3
+Step 40: Click on item selectFromMachine
+Step 41: Click on p originalDocument
+Step 42: Click on div closeIcon
+Step 43: Click on label selectFile3
 Step 44: Click on item selectFromMachine
-Step 45: Click on label selectFile
-Step 46: Click on item selectFromMachine
-Step 47: Click on label resourceSelection (selectFile2)
-Step 48: Click on item selectFromMachine
-Step 49: Click on button formActions (continue2)
-Step 50: Click on button formActions (retry)
-Step 51: Click on input userDetails (citizenId2)
-Step 52: Click on input userDetails (email2)
-Step 53: Enter input value in input userDetails (email2)
-Step 54: Click on input userDetails (citizenId2)
-Step 55: Click on input userDetails (citizenId2)
-Step 56: Enter input value in input userDetails (citizenId2)
-Step 57: Click on input userDetails (phoneNumber2)
-Step 58: Enter input value in input userDetails (phoneNumber2)
-Step 59: Enter input value in input userDetails (fullName2)
-Step 60: Click on p citizenIdRequired
-Step 61: Click on input userDetails (phoneNumber2)
-Step 62: Click on input userDetails (phoneNumber2)
-Step 63: Click on input userDetails (phoneNumber2)
-Step 64: Click on input userDetails (phoneNumber2)
-Step 65: Enter input value in input userDetails (phoneNumber2)
-Step 66: Click on input userDetails (fullName2)
-Step 67: Enter input value in input userDetails (fullName2)
-Step 68: Click on button formActions (continue2)
-Step 69: Click on button formActions (submitRequest)
-Step 70: Click on span serviceList -> Navigate to page 'user profile#user/*'
-Step 71: Click on tr processingDocument
-Step 72: Click on p cancelDocument
-Step 73: Click on p statusMessages (processing)
-Step 74: Click on p statusMessages (processing)
-Step 75: Click on span verifying
-Step 76: Click on p statusMessages (readyToSign)
-Step 77: Click on item congChung
-Step 78: Click on span serviceInfo (resource2) -> Navigate to page ''
-Step 79: Take full page screenshot as checkpoint
+Step 45: Click on button requestActions (continue3)
+Step 46: Click on button requestActions (submitRequest2)
+Step 47: Click on span serviceList -> Navigate to page 'user profile#user/*'
+Step 48: Click on tr checkboxStatus
+Step 49: Click on div backdrop
+Step 50: Click on input checkbox
+Step 51: Click on button action
+Step 52: Click on button processActions (process)
+Step 53: Click on button processActions (processing)
+Step 54: Click on button processActions (cancelAll)
+Step 55: Click on input checkbox
+Step 56: Click on button backIcon
+Step 57: Click on input checkboxHeader
+Step 58: Click on input checkboxHeader
+Step 59: Click on div actionList
+Step 60: Click on span serviceInformation (publicService)
+Step 61: Click on span actionHistory
+Step 62: Click on tr checkboxStatus2
+Step 63: Click on p caseStudyDocument
+Step 64: Click on canvas object
+Step 65: Click on canvas object
+Step 66: Click on canvas object
+Step 67: Click on canvas object
+Step 68: Click on canvas object
+Step 69: Click on canvas object
+Step 70: Click on canvas object
+Step 71: Click on div userProfileDetails
+Step 72: Click on button saveChanges
+Step 73: Click on div backdrop
+Step 74: Click on div publicServiceLog
+Step 75: Click on span serviceInformation (publicService)
+Step 76: Click on span resource2 -> Navigate to page 'user/document-wallet'
+Step 77: Click on span createPublicProfile -> Navigate to page 'user/create-notarization-profile'
+Step 78: Click on div chonLoaiCongChung
+Step 79: Click on span documentFile -> Navigate to page 'user/document-wallet'
+Step 80: Click on div pictureAsPdfIcon
+Step 81: Click on button close
+Step 82: Click on button shareDocument
+Step 83: Click on div shareDocumentModal
+Step 84: Click on input emailRecipient2
+Step 85: Enter input value in input emailRecipient2
+Step 86: Click on item emailOption
+Step 87: Click on input numberField
+Step 88: Enter input value in input numberField
+Step 89: Click on button share
+Step 90: Click on button buyMore
+Step 91: Click on input numberField2
+Step 92: Enter input value in input numberField2
+Step 93: Click on button buyMoreResources
+Step 94: Click on button viewResources
+Step 95: Click on button close
+Step 96: Click on button close
+Step 97: Click on div resourceList
+Step 98: Click on div resourceList2 -> Navigate to page ''
+Step 99: Take full page screenshot as checkpoint
+",Trivial,NEW
+8,Create Public Profile and Navigate Services,"Create a public profile, navigate services, and perform multiple actions before verifying the home page.","Step 1: Navigate to /
+Step 2: Repeatedly click to create a public profile multiple times
+	- Step 1: Click on button createPublicProfile2
+	- Step 2: Click on button createPublicProfile
+	- Step 3: Click on button createPublicProfile
+	- Step 4: Click on button createPublicProfile
+	- Step 5: Click on button createPublicProfile
+	- Step 6: Click on button createPublicProfile
+	- Step 7: Click on button createPublicProfile
+	- Step 8: Click on button createPublicProfile
+	- Step 9: Click on button createPublicProfile
+	- Step 10: Click on button createPublicProfile
+	- Step 11: Click on button createPublicProfile
+	- Step 12: Click on button createPublicProfile
+	- Step 13: Click on button createPublicProfile
+	- Step 14: Click on button createPublicProfile
+	- Step 15: Click on button createPublicProfile
+	- Step 16: Click on button createPublicProfile
+	- Step 17: Click on button createPublicProfile
+	- Step 18: Click on button createPublicProfile
+Step 3: Click on button next
+Step 4: Click on button next
+Step 5: Click on button next
+Step 6: Click on header agreementBuySell
+Step 7: Click on span whatIsPublicService
+Step 8: Click on item publicServiceLegalValue
+Step 9: Click on span canPublicServiceSignMultiplePeople
+Step 10: Click on span price -> Navigate to page 'pricing'
+Step 11: Click on item securityPolicy
+Step 12: Click on item securityPolicy
+Step 13: Click on span securityPolicy -> Navigate to page 'privacy-policy'
+Step 14: Click on span termsOfUse -> Navigate to page '/terms-of-service'
+Step 15: Click on span forVpcc -> Navigate to page 'for-notary-offices'
+Step 16: Click on button fileActions (requestDemo)
+Step 17: Click on button fileActions (downloadFile)
+Step 18: Click on button fileActions (downloadFile2)
+Step 19: Click on button fileActions (requestDemo2)
+Step 20: Click on span explanation -> Navigate to page 'dispute-resolution'
+Step 21: Click on button linkedIn
+Step 22: Click on link signIn -> Navigate to page 'signin'
+Step 23: Click on link signUp -> Navigate to page 'signup'
+Step 24: Click on button signUpWithGoogle
+Step 25: Click on button signUpWithGoogle2
+Step 26: Click on button signUpWithGoogle2
+Step 27: Click on button signUpWithGoogle2
+Step 28: Click on button signUpWithGoogle2
+Step 29: Click on button signUpWithGoogle2
+Step 30: Click on button signUpWithGoogle2
+Step 31: Click on button signUpWithGoogle2
+Step 32: Click on button signUpWithGoogle2
+Step 33: Click on button signUpWithGoogle2
+Step 34: Click on button signUpWithGoogle2
+Step 35: Click on button signUpWithGoogle2
+Step 36: Click on div signUpForm
+Step 37: Click on div signUpForm
+Step 38: Click on div signUpForm
+Step 39: Click on button signUpWithGoogle2
+Step 40: Click on button signUpWithGoogle2
+Step 41: Click on button signUpWithGoogle2
+Step 42: Click on button signUpWithGoogle2
+Step 43: Click on link signInAlternative -> Navigate to page 'signin'
+Step 44: Click on button signInWithGoogle
+Step 45: Click on button signInWithGoogle2
+Step 46: Click on button signInWithGoogle2 -> Navigate to page 'user/create-notarization-profile'
+Step 47: Click on span userName -> Navigate to page 'profile'
+Step 48: Click on span createProfile -> Navigate to page 'user/create-notarization-profile'
+Step 49: Click on item licensing -> Navigate to page 'user profile#user/*'
+Step 50: Click on div licensingInfo
+Step 51: Click on span serviceInformation (publicService)
+Step 52: Click on span resource2 -> Navigate to page 'user/document-wallet'
+Step 53: Click on span createPublicProfile -> Navigate to page 'user/create-notarization-profile'
+Step 54: Click on input serviceSelection (chonLinhVucCongChung)
+Step 55: Click on div chonLoaiCongChung
+Step 56: Click on div autocompleteInput
+Step 57: Click on div serviceOptions
+Step 58: Click on input serviceSelection (chonLinhVucCongChung)
+Step 59: Click on div chonLoaiCongChung
+Step 60: Click on input serviceSelection (chonLinhVucCongChung)
+Step 61: Click on item optionSelection (option)
+Step 62: Click on input serviceSelection (selectPublicService)
+Step 63: Click on item optionSelection (selectOption2)
+Step 64: Click on button requestActions (continue4)
+Step 65: Click on input amount2
+Step 66: Enter input value in input amount2
+Step 67: Click on input fullName3
+Step 68: Enter input value in input fullName3
+Step 69: Click on input phoneNumber3
+Step 70: Enter input value in input phoneNumber3
+Step 71: Click on input citizenId3
+Step 72: Enter input value in input citizenId3
+Step 73: Click on input email3
+Step 74: Enter input value in input email3
+Step 75: Click on div selectType
+Step 76: Click on label fileSelection (selectResource)
+Step 77: Click on div backdrop
+Step 78: Click on label fileSelection (selectResource2)
+Step 79: Click on item selectFromMachine
+Step 80: Click on button requestActions (continue3)
+Step 81: Click on button close
+Step 82: Click on label fileSelection (selectFile4)
+Step 83: Click on item selectFromMachine
+Step 84: Click on label fileSelection (selectFile5)
+Step 85: Click on item selectFromMachine
+Step 86: Click on label fileSelection (selectResource3)
+Step 87: Click on item selectFromMachine2
+Step 88: Click on button requestActions (continue3)
+Step 89: Click on button requestActions (submitRequest2)
+Step 90: Click on span serviceList -> Navigate to page 'user profile#user/*'
+Step 91: Click on span serviceInformation (publicService)
+Step 92: Click on span resource2 -> Navigate to page 'user/document-wallet'
+Step 93: Click on span createPublicProfile -> Navigate to page 'user/create-notarization-profile'
+Step 94: Click on div selectTypeList
+Step 95: Click on div serviceOptions
+Step 96: Click on input serviceSelection (selectFunction)
+Step 97: Click on item optionSelection (selectFunctionOption)
+Step 98: Click on div autocompleteInput
+Step 99: Click on item optionSelection (selectContractOption)
+Step 100: Click on button requestActions (continue2)
+Step 101: Click on span documentFile -> Navigate to page 'user/document-wallet'
+Step 102: Click on span versionContract -> Navigate to page 'user profile#user/*'
+Step 103: Click on item history
+Step 104: Click on span createContractFile -> Navigate to page 'user/create-notarization-profile'
+Step 105: Click on span versionContract -> Navigate to page 'user profile#user/*'
+Step 106: Click on item financialResource -> Navigate to page 'user/document-wallet'
+Step 107: Click on span userName -> Navigate to page 'profile'
+Step 108: Click on span dangXuat
+Step 109: Click on button co -> Navigate to page 'signin'
+Step 110: Click on link trangChu -> Navigate to page '/'
+Step 111: Click on link dichVuCongChung -> Navigate to page 'services page#*'
+Step 112: Click on link traCuuHoSoCongChung -> Navigate to page 'lookup'
+Step 113: Click on link dichVuCongChung -> Navigate to page 'services page#*'
+Step 114: Click on div object
+Step 115: Click on item congChungHopDong
+Step 116: Click on div taoHoSo
+Step 117: Click on p object
+Step 118: Click on link taoHoSo -> Navigate to page 'signin'
+Step 119: Click on div assistantIcon
+Step 120: Click on input nhapTinNhan
+Step 121: Enter input value in input nhapTinNhan
+Step 122: Press key Enter on input nhapTinNhan
+Step 123: Press key Enter on body object
+Step 124: Click on header object
+Step 125: Click on button close
+Step 126: Click on link trustify -> Navigate to page '/'
+Step 127: Click on button next
+Step 128: Click on button next
+Step 129: Click on button next
+Step 130: Click on button next
+Step 131: Click on button next
+Step 132: Click on button arrowLeft
+Step 133: Click on button arrowLeft
+Step 134: Click on button arrowLeft
+Step 135: Click on div phoneIcon
+Step 136: Click on button github -> Navigate to page ''
+Step 137: Take full page screenshot as checkpoint
 ",Trivial,NEW

@@ -30,7 +30,7 @@
         <name>text</name>
         <type>Main</type>
         <value>ĐĂNG NHẬP VỚI GOOGLE</value>
-        <webElementGuid>60ebe38b-e315-4302-a2dc-df8a54ac7954</webElementGuid>
+        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
         <name>type</name>
         <type>Main</type>
         <value>submit</value>
-        <webElementGuid>60ebe38b-e315-4302-a2dc-df8a54ac7954</webElementGuid>
+        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
