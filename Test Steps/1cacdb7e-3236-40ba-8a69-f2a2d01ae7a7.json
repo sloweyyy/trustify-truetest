@@ -1,0 +1,14 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Repeatedly click to create a public profile multiple times",
+        "step 3: Proceed through agreement steps and learn about public service.",
+        "step 4: Access public notice and security/privacy policies.",
+        "step 5: Access terms of service and request a demo or download files.",
+        "step 6: Click on button linkedIn -> Navigate to page 'signin'",
+        "step 7: Click on link signUp2",
+        "step 8: Attempt multiple sign ups using Google account.",
+        "step 9: Click on button signUpWithGoogle2 -> Navigate to page 'signin'",
+        "step 10: Take full page screenshot as checkpoint"
+    ]
+}

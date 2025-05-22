@@ -1,0 +1,17 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on button next",
+        "step 3: Click on button next",
+        "step 4: Click on button next",
+        "step 5: Click on button next",
+        "step 6: Click on button expandMore",
+        "step 7: Click on item publicServiceLegalValue",
+        "step 8: Click on item congChucTrucTuyen",
+        "step 9: Click on link signIn -> Navigate to page 'signin'",
+        "step 10: Click on link trustify -> Navigate to page '/'",
+        "step 11: Click on link traCuuHoSoCongChuc",
+        "step 12: Click on link traCuuHoSoCongChuc -> Navigate to page 'lookup'",
+        "step 13: Take full page screenshot as checkpoint"
+    ]
+}
