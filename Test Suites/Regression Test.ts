@@ -12,1119 +12,771 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>ce9f3ede-729d-45e0-82f4-e795e8c49fea</testSuiteGuid>
    <testCaseLink>
-      <guid>8ca0dd4a-6dfa-4fdf-b086-2647311f345e</guid>
+      <guid>7659cb25-7f2e-4bfe-99b8-31f904ebdb4a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC1-Create Public Profile and Sign In with Google</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC1-Create Multiple Public Profiles and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>9c3b934c-5153-4b37-a117-f2053279f827</guid>
+      <guid>ac2bf2c7-4c76-488d-b246-0d2172e2fb79</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC2-Navigate Home and Click Next Buttons</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC10-Create Public Profiles and Verify Sign In for Service Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>812b29cd-0f7f-4ad4-9bea-430ddf44c41a</guid>
+      <guid>097cc157-c4f5-4265-883e-0aa10f304c26</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC3-View Pricing and Contact Support</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC11-Navigate to Lookup Page and Verify Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>748afa06-2fc9-4130-9bd1-c03365ca9afd</guid>
+      <guid>8b315927-9d41-40d5-80b4-396f72d2604c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC4-Create Public Profile and Request Notarization Action</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>aa91e941-d873-4d25-9455-1ad270b71244</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3280e4f9-78e9-49af-a055-a6e720c15abc</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>9c156710-053e-4606-a686-b577c3f55a96</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bc611428-8b38-4785-b567-7e34acb2c10b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2eba9354-7722-46b5-bb07-cf38a52ee764</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>59243c8c-ff2b-425e-b482-8525214e2fae</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3da60c0c-141c-46fe-a2b5-14da13ce808b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e5d7c1bf-3932-45ae-aa2e-1d8a100de6f8</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>16ef32d5-f489-43af-9fe3-15ceeccfefc3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3e244a93-35be-4dff-8a4c-4ed7b8fdb53e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d2a751a3-adfa-4bfc-83b9-76e20659d5da</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fc8e497f-e1a6-453a-aa52-43cfc032f3b6</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>16172bc3-e689-4ceb-827a-08f69e97ce15</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>cb2dc7ab-260c-4a4c-a434-856328c2ab8f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>aaf2ca7b-2aab-431b-ad51-1c1395873ff9</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>b64f355a-1f2c-4141-9605-1505f506385a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>1a755148-b992-48b6-a061-e94168a4273b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>48bb5fb5-a026-462c-80cb-c7b20b8ecddb</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>cb9a0619-89f4-4eaa-9dec-01e93a8c0de3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d66b62c1-fb2b-4e1f-bd2f-fc4a95d6f50d</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5f48208b-3b7d-419f-beef-9a02e5e3b29d</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8df60ad0-80c8-4d7f-abc9-65c47c5c6467</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8f6c228e-3520-4e7a-9f6e-889cbbd59a71</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>34c41b1d-2bd0-4246-a20b-fa297c2ae2bb</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7d3e202f-d468-4f30-b378-2f5615ffed4f</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>1b8f1b88-1ac6-4351-ae0c-f383df9477df</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC5-Explore Pricing and Manage Documents</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC12-Explore Usage Guide and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f2ba9a83-a5de-4537-b48c-db4b1ebc38f3</variableId>
+         <variableId>908c27dc-7706-44d6-95cb-0555cba0c2b6</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>31431cdc-2963-4b30-8c41-61699881cc11</variableId>
+         <variableId>1a22a04c-d6fb-480f-a859-ee6a0326e83b</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fdb35905-d33a-424a-b983-d43615239cdf</variableId>
+         <variableId>e2774454-67b9-44d8-8140-6c9d2cd05fe5</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>3fe017bd-7192-4990-bb4f-f5fa1e2d8541</variableId>
+         <variableId>46325ef2-e7e1-4e9d-950b-a073a099c3ac</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>104725df-d9c6-4811-8c0a-d60fd3672999</variableId>
+         <variableId>3b704d7d-ff48-467b-80dd-9f6dc12acb2f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fbab7306-6a92-4d7f-85af-9e28f2a7836a</variableId>
+         <variableId>4fcb8a92-6376-400b-98e5-5d2eb887eb77</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>6b934802-77ab-4548-8e7b-55cbc4c3af35</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2087bc41-f7dd-4720-b306-feca144b5483</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>36dea7f0-3ee5-402c-a6da-431fef341ff3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>4d937e9f-9b59-47f6-ba10-3d93d230fb50</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>9d7bc999-4888-4587-9b96-bae8e3da40e7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>39975c36-3dd3-4a00-8476-0fd79da44e6b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8992c0ac-f0a3-48c9-8d0a-fe7afab42c91</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>65a35066-c80d-4b93-8bc7-76155dd727f1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ded75cb7-d71d-4fe4-8602-4752aba1ab20</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7469b732-0911-4d99-9fec-89b389d09984</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>32fb9b94-4a6a-4edd-823e-eec9e10919a2</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>85b38ed5-021c-4c11-a945-a00bd09c8106</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8cfdf02d-d608-4700-8345-8c01ab1427ba</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fee0ce2a-9769-404c-9d3f-4291f582874b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>edc33ff3-9cae-4284-b42b-43f1534b72fd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0407f3de-f459-4be3-a823-d9e261a8d7b6</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>036e6377-5398-4aa6-8efe-fd4a97c511e7</variableId>
+         <variableId>e81da104-d9a8-4c6e-a9a1-793b345ceeda</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>3f507776-857c-41ca-9756-0892fa5991e9</guid>
+      <guid>0fc645c1-ed2b-4a2b-9624-14ae6b3092bb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC6-Verify Resource Verification and Document Management</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC13-Create Public Profiles and Verify Home Page After Sign In</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>866b3f7f-ac89-4952-a254-3a178625a2f7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC14-Create Public Profile and Verify Sign In Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>2bfd1506-91be-4c85-9199-2090f3c5fb13</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC15-Create Public Profile and Verify Home Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bbe4c536-b7f4-41c8-b52c-a1c940730071</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC16-Contact Support and Verify Lookup Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b54d1006-dc04-426a-93b6-474e34423ec8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC17-Create Public Profiles and Verify Home Page After Sign Up</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>287963cf-7b0c-4769-ae09-fd2205c8c458</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC18-Create Notarization Profile and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>7a8125e6-c30c-4c97-8433-092e2f450e42</variableId>
+         <variableId>08b6cb1c-18ec-41c8-ab3e-9a6fa49c44ee</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>acc35312-3b74-48b5-9af5-72d1c04ebba0</variableId>
+         <variableId>5c7dd87f-d664-4d65-a591-06f55a122b18</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c1b9c331-17b7-4f3f-9439-3aa48f9a66ac</variableId>
+         <variableId>bc484dbf-f307-4d7c-a82b-46ebd48275a4</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fefc633a-6c7d-4cc7-bf60-9336b43787df</variableId>
+         <variableId>daad2682-0639-4bae-af53-d3062409bbf5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>abc7ca41-fc51-4ab4-8f70-23feb17afca3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b89315e6-70dc-4177-be96-2fa56a48dffd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8f24f9fa-30e6-430e-beee-904a833cfe0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f6c850f9-f1f8-4b4d-88ee-567964e91a90</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>34ddbeb6-300d-4559-b3d2-9b686318c597</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8d2a5ffd-a8bd-4fa8-a3ad-79427338ef3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dd50c65b-84a6-46b7-bf5b-8aaa09608292</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1ccb30f5-d216-4212-9c97-9cdc97f5e9eb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6445a3a1-502d-4c33-bd1f-bad054681074</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0f9af341-88ad-4b8e-b0c6-f4063be720e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d592b9a3-a0ba-45e0-84a7-322545694cbe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>053d8375-b39b-4f93-9b90-8bb934e9ab17</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>738a2d52-bdd0-41b2-b67f-3abc5a46e215</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>64ae87a9-caac-4238-a079-5611a22a8ca3</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>58b8e57a-ea95-4982-8ac1-d8abe21bbd3f</guid>
+      <guid>d5a03a42-f464-45fa-a76e-bc22c9ebd342</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC7-Create Notarization Profile and Manage Resources</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC19-Create Notarization Profile and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>09dfd398-e7d3-476b-b29f-38a4e74fc0b9</variableId>
+         <variableId>6487e803-2dda-481d-b727-1783943f8768</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>ae4bf47f-fa6e-4542-88e7-21e66d6ddd8c</variableId>
+         <variableId>d31766a6-1592-4ab6-8aa6-65281240f644</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>7dc1d908-ba40-4239-a7ee-890e4a6cb282</variableId>
+         <variableId>6ee4ff86-a92f-4465-87af-402fb7ab59b4</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>9eeb44e3-f82a-48a2-9114-2cb55dad514b</variableId>
+         <variableId>2e3e701d-d554-4b08-9704-7de2a8058c99</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>346199e3-343e-4a30-998f-0aaf6c8ccae9</variableId>
+         <variableId>cd12ebe5-ad1d-4e43-b0cc-63e99bad7855</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5f81b31f-c804-45e4-a2f8-b01387e9f16a</variableId>
+         <variableId>d5ec9259-b5dc-4324-b7a3-2d3186de1f04</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>8bb84a5b-440b-48d1-8df0-bbd0c963ea41</variableId>
+         <variableId>bc8f3c35-6317-459e-996c-8633cdff401f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>ee983be8-e75d-4271-ac6a-e37caf485b00</variableId>
+         <variableId>c6bc3055-1757-46ca-87e6-3ee89f111348</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>39b71161-9631-420f-a9ff-ffbea6752719</variableId>
+         <variableId>c96c56a9-83c7-411f-8474-732f7b788eab</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>67aadcc1-6c0a-48d9-8d12-ecf3abe33aec</variableId>
+         <variableId>2fe4dd47-e3d0-42a5-8c6b-a42fddea0f45</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>bc865f2f-c557-42e2-b3e4-bda39ed21321</variableId>
+         <variableId>badd7f0b-546c-4904-90f4-57d406e9bde9</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>40d45dc0-285a-4d3a-b2e7-51bdf1583111</variableId>
+         <variableId>9bac59ac-37c4-43e4-a197-81d739d89836</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>43c39e8a-ac8c-43f7-bd10-84ed138ebeab</variableId>
+         <variableId>4dcd21d8-cc5b-41ae-a208-abdcf225863e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>910f4b9c-6f57-4a38-bb17-b4c22ae92244</variableId>
+         <variableId>4a116b7a-a06e-4df8-865f-b74fb27aa28f</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>08a3cef9-5978-47ed-8f28-8a1afbba9566</variableId>
+         <variableId>90e3bf1c-88a0-4933-bb32-6c65a5dbc7de</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c57d618f-eb3f-4fce-bea0-1fcb1911c581</variableId>
+         <variableId>f14f4099-9b83-4921-878b-4d6ebce66062</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fde3413c-81fe-41da-baa1-919b44a1196c</variableId>
+         <variableId>457ff74d-a6cd-4e7f-b5dd-43176d6f3612</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>6fe2a0d2-c769-4f0c-8d07-1b7ce8bf04e6</variableId>
+         <variableId>773793a7-6954-4c8c-8864-7e8aa65a3961</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a74ff1bb-762b-4bef-bbff-1761bd99344f</variableId>
+         <variableId>318e86e4-00a5-4ce3-9e82-98b83e2918df</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5f046a0b-ae4f-4a8c-b64d-72a40b783574</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a99838fa-c7e0-4ce1-a7dc-06a0602705b3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6cfbfadd-e893-402c-9c67-8b94fa230439</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>68f41911-8822-45cd-8165-a12725a4ed83</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ddf349ca-6a62-4d80-83de-25f578397a78</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f04df81b-c01d-49a1-8e6f-14e43a802f18</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>372e4a18-c6e4-4064-81ba-f3695a495539</variableId>
+         <variableId>36dfd3f8-91dc-432b-8d25-a63200e002ec</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>f43a7c45-8884-4f40-85ff-86d54fa6acca</guid>
+      <guid>ca8ca6cc-926f-455a-9753-6fab6ed332d0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC8-Create Public Profile and Navigate Services</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC2-Create Public Profiles and Verify Home Page After Navigation</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf53e3ea-834c-48ed-806a-d8dde1f0d041</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC20-Explore Policy Links and Verify Terms of Service Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>ed29634f-1201-4924-a68d-a978b16c9640</variableId>
+         <variableId>df02e184-9367-4db3-b04b-8adfea3d2237</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>cc2963b4-e186-4a2a-8573-505d3e0f56bd</variableId>
+         <variableId>2c4f02af-a354-4ce2-84da-428f7dbf9db0</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>6ad6d601-9051-422d-badb-639586c28a57</variableId>
+         <variableId>7f6b6028-5029-4698-800f-e0e959e3f0d1</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>813b6063-ec38-4448-91a1-cfc5605b48a2</variableId>
+         <variableId>d0f8cc14-6d0a-4887-95f4-04f42201e457</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>a76557d5-a69f-4c10-9c1f-62c9a11c61db</variableId>
+         <variableId>c82e0c75-5de9-4e42-a578-8ba480faec08</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>bfbd4986-2147-4e6e-89f6-82e6dce86141</variableId>
+         <variableId>41e04351-a126-42b0-9a51-4da2bfd8f600</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>bd053b0d-a6bc-49d4-9c53-3c29de62e53b</variableId>
+         <variableId>30b3df57-99fb-43d5-b2c7-0649de8f4c9c</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>52a8b3d0-4b58-48ff-9992-732f7ada0eb3</variableId>
+         <variableId>ed5edf19-fb24-421a-afd4-cdfe151c9bec</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c2931d97-dc47-472e-8b82-8c06bfd85bc2</variableId>
+         <variableId>c76fa7a0-016c-4c2b-8303-152faba452cd</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>b7579a71-0552-4fbc-a693-d0ee6e1a62e6</variableId>
+         <variableId>43432a4f-6209-45bc-9a01-bfcac69e13f5</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>bc48b261-768b-4b42-ac08-7c2bb1b43e99</variableId>
+         <variableId>e283186f-ff6a-4f72-a863-2364ca233839</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>ac382de2-0b26-4650-999c-a572e9ccad8a</variableId>
+         <variableId>60bd2903-2e97-4b80-9502-9bbddb310784</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>2305247b-c2cd-4132-9918-a114cd16c72d</variableId>
+         <variableId>cc796f26-8e8c-4938-b8bc-55b48ffaac51</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>5551ad36-01ac-4122-81f9-32d2664b41df</variableId>
+         <variableId>509e684a-5fa6-4504-adea-7657ed706580</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f63f3a00-57ac-4a2d-bd60-2e0fbd893aef</variableId>
+         <variableId>fa6c586a-ac32-488c-af26-65133d7a465b</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>0b392540-45d1-4db3-826b-0eb9849d4643</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fda6376d-185d-43ef-865e-4e276c390379</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>da166365-4397-40d5-bd5b-2c4dea76df86</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>673c2d70-51c8-414a-b920-9dcf2ec2004d</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>258439d7-aea7-4251-8215-2ae5a4e3bb33</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>aeb5ac70-85fe-4ef7-9435-22cc2f0f6aaf</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bb4a4699-b302-4ce1-b284-6eb441799c66</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>83d172f2-98fe-41e1-b8d7-6d31745bcab9</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bdf0781a-578b-4bdb-b9d0-217d4366c8a2</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>19b8e33c-0407-41b1-978f-f4024607d6b8</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>579a2600-5dbf-46ff-93b3-fa26ee2c3b37</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5b22765f-543c-4e28-b4b4-a2bb34359ecf</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f2563d4c-4162-4638-8a8a-5fb3667234d5</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>ce68a6c4-aa6e-4cb0-8a03-6364ca243568</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>12ed36de-0ccf-45b9-9880-fd92335e0135</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0780e1d1-d557-47c6-b4a5-654b4b20d19c</variableId>
+         <variableId>4eb31aa1-3165-4c85-bd16-9895e52fdd9e</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>9282f68b-1cb4-4a50-85fb-6beea4c1e5b1</guid>
+      <guid>e70e0def-072d-48bd-bff5-574c9545f4a4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC9-Document Management and Task Completion</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC21-Contact Support and Verify Home Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>7b4bd1a4-a84a-4c32-a4b3-551e57856c9a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC22-Login and Manage Notarization Documents</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>c82c2fc6-ef60-4ce5-8546-d48ee42bceab</variableId>
+         <variableId>2467ee73-afc9-4de4-a0ea-b58c96363893</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>00cebd6c-a317-420a-bcbe-ee1bbfcc0249</variableId>
+         <variableId>28f49f78-040f-43cc-bcc7-7d459530295e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fae468b7-7638-4d14-9052-f9d91fa6b43e</variableId>
+         <variableId>3246911e-db11-4a5a-b64c-fd1d16bcfb5c</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>fcf2be10-5eb4-4092-a552-efa5d0d78737</variableId>
+         <variableId>3f9a10e8-6575-4350-a472-cbc7b9f50260</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>efdf4ef6-6f40-4648-883a-b805b26685fe</variableId>
+         <variableId>471d8513-b4db-48e3-9ad5-eb1cf0eb881e</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>b9a16795-f62d-4679-9634-7d6a6245b028</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>1c2f696e-a9b9-45f0-9068-93e281bc6af8</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>0a24e3cd-c488-4594-9729-b52ca84a8491</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>d1e8243f-4048-4115-846f-80fd0eeba032</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>919816be-cd07-4f4a-a4a7-4b476543d881</variableId>
+         <variableId>da1f6e9b-ec92-47ca-887a-2694e1713f5a</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>c91696c5-4a34-431f-84e6-45a79f1e26df</guid>
+      <guid>6a063bf8-aea3-4406-9edb-2f8b9772a69f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC10-Sign In Navigation Verification</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC23-Login and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>6e4a38b4-b552-4246-b70a-398cbde9a50d</guid>
+      <guid>74782550-d8cd-4768-ac45-783cba1e261b</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC11-View Pricing and Register for Services</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC24-Create Public Profiles and Verify Home Page After Sign In</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>558027b6-acf6-4339-bf4e-1b40bf07f5f4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC25-Create Notarization Profile and Share Document</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>d9137e8c-9045-4a58-93e8-7cdbcc545e63</variableId>
+         <variableId>897fb88a-f924-4592-be6e-786fd27e884e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a23303f0-ec16-4f95-859e-91a5646a294d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>af4af746-3658-4d20-b703-33fe1d6b3a7a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>de6a4b7a-dc35-4cc9-982c-615abd07409b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7587eee3-e01e-476e-bbcc-0284c3d0ee0e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>79157fbc-6da8-4442-8a43-3245afea412c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f9aa54bc-a1a7-470b-9ef4-7269a7b4e5b3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6511c357-c2a0-49e6-a8c4-604cd93c35a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c0115c54-4854-4b49-acd1-a124b1f6ff33</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>44b16eca-fe46-402b-a346-af60fbcc89e8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4f4100eb-0957-483e-987a-58b664434d32</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ebd7f999-94b0-4719-8147-623d69a53485</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>cf75e61e-ff65-4d64-a173-7a7eefda4a89</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>24bc57b9-6d36-453a-87fa-e07db4a43a8a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>012060b5-0730-453a-99bd-caf4978122d9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>53d716f7-d14d-4023-a02a-c3ff72eaade0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9ce0a110-2ab2-4be1-b31c-bfc1916a0ddf</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>909dea3b-4b7d-4f9a-97b6-aed89565ff9c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f5c0f568-2d71-41c9-96df-1fc20325bf2c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>9af1bd1a-9bf6-4746-ab29-ba2a0a86a8dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>03f6e57e-c6f9-4047-a46e-d9a0f94c2be8</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>5c2c399b-e97e-4d54-a607-f0e3cec053cb</guid>
+      <guid>01dbd6a2-4237-4538-9213-8bb42571a27a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC12-Explore Pricing Details and Features for Services</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC28-Sign In and Verify Home Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3e4e8c72-d1f8-46f2-b50f-466c61e9a49e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC3-Navigate Public Services and Verify Sign In Page</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d52a1376-dae7-4bfa-8a04-4a88eef0e1a2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC30-Manage User Document History and Verify Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>f8552925-7555-4cf4-a3ae-8a82779497af</variableId>
+         <variableId>3165e043-83a9-4d84-a8d4-1007e229195a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d311a8a3-4e62-4145-b905-d2e100d30102</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>54ee1d29-1d86-4e4f-8676-87581c9e025d</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>a3c12436-ff91-4192-96df-ad0a45bb0f3b</guid>
+      <guid>deed56af-81e4-4873-88e6-a25712c8c14e</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC13-Create Public Profile and Access Services</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC31-Login Multiple Times and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>8595e156-a77e-4c76-bd58-cbe2dabfdb2b</guid>
+      <guid>13ffcf84-3b9f-4a5b-a42e-e6269e40b509</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC14-Create Public Profile and Sign Up Process</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC32-Contact Support and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cf24a093-e1c1-4306-9f21-848656cf9c0e</guid>
+      <guid>0ec18ebc-c5dc-4359-8db8-41ab9fb818b0</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC15-Create Public Profile and Verify Sign In</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>0d968a41-947a-4104-b83c-0841b6afad32</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC16-Create Public Profile and Return to Home</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>ba22c70d-37f8-4dfd-aeef-1b61bdfb4dc9</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC17-Create Public Profile and Multiple Sign Up Attempts</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>973b50e0-1a01-4e48-9b77-b2ae1ee70f66</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC18-Create Notarization Profile and Verify Document Wallet</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC34-Contact Support and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>87102ce9-40e7-4bef-8791-040fa3626a1e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>2d5c0751-7c86-4785-9cc9-67ac6ab20454</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>bc0b5838-f2c9-4031-98f7-af3da0e15232</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e0f6696f-4e8b-4706-99ef-198adbda9a88</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>265b4a64-4e9c-427a-87e5-63bdcb399854</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>91c6535d-d0b6-4bf0-9578-465a4a50e005</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e3f0fa94-0b29-4311-9f2f-c8742b028a82</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>af9612d2-884b-49b1-9614-1277e7ae4fb7</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>6758e8a5-5e3b-4b31-a4f3-5d0428c5dde0</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>651dab27-5c7e-4dcb-b6ea-67e090dfad87</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>fdab1ba8-7c0f-4ce7-ad4d-45c2e18b88ee</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>c760786b-0af7-432d-a95a-61470ce96a0e</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f46ed4d3-cdc8-44ef-8cad-c0d99f2d8471</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>feeebb98-d085-458c-a7bb-c9355a73687a</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>42b2db3e-a1f5-4e34-ad30-19e911fc8c14</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>3aa6d58c-f501-43e9-a06b-279ab431c7ae</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>079b7e72-72cc-4a89-a189-08d7c6bd4e46</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>8cdc99a2-74ea-4818-af21-aafe6219ea95</variableId>
+         <variableId>3465c2a4-47a1-42d9-b0b0-b9c3daafc9b0</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>7463c148-b7f2-44af-a2a8-20d240cddc97</guid>
+      <guid>eeee9a85-6fe2-4e38-ba19-f73fc7de3ec7</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC19-Navigate Policies and Verify Terms of Service</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC4-Contact Support and Verify Home Page Access</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>27f16c2c-a71b-4977-8949-71bd948b3d16</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/AI-Generated/TC5-Explore Pricing and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>d40060b2-ba2a-4f83-bc1d-c8e13f1dbb5c</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>37355df4-f145-4e5f-9df8-acf4a5a5ada6</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>1d5701e6-4590-430f-8559-f6ccfd761b72</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>39d364d8-2a40-47e8-a1ee-45872eb736e4</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>4298b218-2545-4930-a238-2b641a055691</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>e4755b12-c25f-48cc-945d-192d0efbee8b</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>26c090c1-d889-43a8-b63d-d50ef5cfc643</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>4445d9b1-cc3c-41b5-8a49-60005a36be98</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>087074cc-e440-4230-8782-eaec1cce1caf</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>aa887b81-38bb-4250-a1d2-f67fe4638bfc</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>712d5fcb-b7bf-4140-90b6-497ec206cc68</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>604c7813-e853-4afe-a048-5cc1e74c1bc3</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>168f1f6c-ef09-4653-baa4-471b53f92fb1</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>f39600c3-185c-4974-b75a-7dcd15229001</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>5807b2ba-c6fd-4332-9e84-aef2c99b0da2</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>693e9873-e7c7-4fc5-8531-5051fc175b97</variableId>
+         <variableId>a3c128ff-5bfe-4bea-a862-4cd8d5f5dfb3</variableId>
       </variableLink>
    </testCaseLink>
    <testCaseLink>
-      <guid>7b644354-241f-4528-ad6a-9ba5c46b0fd2</guid>
+      <guid>c67e3d70-ae78-4aaf-ad0c-e315c22e086a</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC20-Explore Public Services and Lookup Verification</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC6-Sign Up with Google and Verify Home Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>49757344-141f-49f8-963d-e4bc8f317165</guid>
+      <guid>92352f71-7d7b-4323-992b-14052ee11178</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC21-Create Public Profile and Verify Sign In with Google</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC7-Login and Verify Payment Security Page Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1a2b6b5f-b260-4d0a-b12e-8ef5e4cba5fe</guid>
+      <guid>1e2eb40e-593d-4453-b836-e56b23b8dec4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC22-View User Document Wallet and Verify Details</testCaseId>
-      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>a62751dc-58cc-40c5-acf4-cb30b84f9414</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>432c1ff0-34d6-4534-8a09-7a63ddaa4cfa</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>1f27af3c-f1fc-4991-aacf-2678b3332270</variableId>
-      </variableLink>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>3d6b2702-6101-401e-a62c-f96905f14546</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC23-Review Pricing Features and Register for Services</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC8-Create Public Profiles and Verify Home Page After Sign Up</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>2843c5bd-7465-499b-a07c-dc57fb73b5af</guid>
+      <guid>3bcdb13d-11b9-46d8-af28-07443b203a3c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/AI-Generated/TC24-Login and Verify Home Page Access</testCaseId>
+      <testCaseId>Test Cases/AI-Generated/TC9-Create Public Profiles and Verify Sign In Access</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
