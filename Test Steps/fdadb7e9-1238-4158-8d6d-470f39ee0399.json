@@ -1,0 +1,12 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Click on div homeContent",
+        "step 3: Click on button login",
+        "step 4: Click on button login2",
+        "step 5: Click on button login2",
+        "step 6: Click on div login -> Navigate to page '/signin'",
+        "step 7: Login -> Navigate to page ''",
+        "step 8: Take full page screenshot as checkpoint"
+    ]
+}

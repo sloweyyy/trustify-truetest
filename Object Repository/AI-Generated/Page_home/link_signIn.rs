@@ -30,7 +30,7 @@
         <name>href</name>
         <type>Main</type>
         <value>https://trustify.works/signin</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
         <name>text</name>
         <type>Main</type>
         <value>Đăng Nhập</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

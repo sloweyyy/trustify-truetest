@@ -30,7 +30,7 @@
         <name>text</name>
         <type>Main</type>
         <value>Tạo hồ sơ công chứng</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
     <webElementProperties>
         <isSelected>true</isSelected>
@@ -38,6 +38,6 @@
         <name>type</name>
         <type>Main</type>
         <value>button</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

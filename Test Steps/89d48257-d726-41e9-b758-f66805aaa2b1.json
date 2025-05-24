@@ -1,0 +1,25 @@
+{
+    "steps": [
+        "step 1: Navigate to /user/create-notarization-profile",
+        "step 2: Click on span serviceList -> Navigate to page '/user/history'",
+        "step 3: Click on tr userRequests (userRequest2)",
+        "step 4: Click on tr userRequests (userRequest3)",
+        "step 5: Click on tr userRequests (userRequest2)",
+        "step 6: Click on item document -> Navigate to page '/user/document-wallet'",
+        "step 7: Click on button sidebarToggle",
+        "step 8: Click on button sidebarToggle2",
+        "step 9: Click on header trustify",
+        "step 10: Click on header trustify",
+        "step 11: Click on header trustify",
+        "step 12: Click on button sidebarToggle",
+        "step 13: Click on item object -> Navigate to page '/profile'",
+        "step 14: Click on item object -> Navigate to page '/user/document-wallet'",
+        "step 15: Click on div object2 -> Navigate to page '/user/notarization-session'",
+        "step 16: Click on button sidebarToggle",
+        "step 17: Click on span lichSu -> Navigate to page '/user/history'",
+        "step 18: Click on span documentTitle -> Navigate to page '/user/document-wallet'",
+        "step 19: Click on div object3",
+        "step 20: Click on p soLuong",
+        "step 21: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to /pricing",
+        "step 2: Contact support and view pricing details multiple times",
+        "step 3: Click on span baoCaoToanDien",
+        "step 4: Click on link trustifyLogo -> Navigate to page '/'",
+        "step 5: Click on span price",
+        "step 6: Select document types and payment options multiple times",
+        "step 7: View comprehensive reports and additional options multiple times",
+        "step 8: View tools and comprehensive reports multiple times",
+        "step 9: Click on button register (registerNow)",
+        "step 10: Click on span danhChoVpcc -> Navigate to page '/for-notary-offices'",
+        "step 11: Click on link traCuuHoSoCongChung -> Navigate to page ''",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

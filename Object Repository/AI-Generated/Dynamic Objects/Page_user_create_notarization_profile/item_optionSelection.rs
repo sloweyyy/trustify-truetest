@@ -11,7 +11,7 @@
         </entry>
         <entry>
             <key>BASIC</key>
-            <value>//*[equals(@id,':rg:-option-1')]</value>
+            <value>//*[equals(@id,':r9:-option-0')]</value>
         </entry>
     </selectorCollection>
     <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
         <matchCondition>equals</matchCondition>
         <name>id</name>
         <type>Main</type>
-        <value>:rg:-option-1</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <value>:r9:-option-0</value>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

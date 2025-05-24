@@ -1,0 +1,13 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Navigate through multiple steps in the process",
+        "step 3: Click on span publicNotice",
+        "step 4: Click on span publicService",
+        "step 5: Click on link login -> Navigate to page '/signin'",
+        "step 6: Click on link trustifyLogo -> Navigate to page '/'",
+        "step 7: Click on link traCuuHoSoCongChuc -> Navigate to page '/lookup'",
+        "step 8: Click on link lookupPublicRecord",
+        "step 9: Take full page screenshot as checkpoint"
+    ]
+}

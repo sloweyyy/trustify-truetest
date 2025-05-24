@@ -1,7 +1,7 @@
 {
     "steps": [
         "step 1: Navigate to /",
-        "step 2: Repeatedly click to create a public profile multiple times",
+        "step 2: Create multiple public profiles through repeated actions",
         "step 3: Click on button createPublicProfile",
         "step 4: Click on link signIn -> Navigate to page ''",
         "step 5: Take full page screenshot as checkpoint"

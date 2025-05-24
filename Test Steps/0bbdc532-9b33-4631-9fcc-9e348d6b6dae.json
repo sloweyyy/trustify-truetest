@@ -1,0 +1,15 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Create multiple public profiles through repeated actions",
+        "step 3: Navigate through steps related to public services",
+        "step 4: View public service information and security and privacy policies",
+        "step 5: View terms of use and request a demo or download files",
+        "step 6: Click on button linkedIn",
+        "step 7: Sign up with Google multiple times using the sign-up form",
+        "step 8: Click on button signUpWithGoogle",
+        "step 9: Click on link signInAlternative -> Navigate to page '/signin'",
+        "step 10: Click on button signInWithGoogle -> Navigate to page ''",
+        "step 11: Take full page screenshot as checkpoint"
+    ]
+}

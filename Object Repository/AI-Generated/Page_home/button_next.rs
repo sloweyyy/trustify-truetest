@@ -18,7 +18,7 @@
     <smartLocatorCollection>
         <entry>
             <key>SMART_LOCATOR</key>
-            <value>.MuiBox-{{username}} &gt; div:nth-child(2) &gt; button:nth-child(2)</value>
+            <value>.MuiBox-root &gt; div:nth-child(2) &gt; button:nth-child(2)</value>
         </entry>
     </smartLocatorCollection>
     <smartLocatorEnabled>true</smartLocatorEnabled>
@@ -30,6 +30,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>ArrowCircleRightRoundedIcon</value>
-        <webElementGuid>bb104204-858f-40f6-93f2-b4e67278b865</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
 </WebElementEntity>

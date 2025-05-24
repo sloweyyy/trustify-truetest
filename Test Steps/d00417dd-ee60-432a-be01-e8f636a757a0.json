@@ -1,0 +1,11 @@
+{
+    "steps": [
+        "step 1: Navigate to /signin",
+        "step 2: Click on link signUp",
+        "step 3: Sign up with Google multiple times using the sign-up form",
+        "step 4: Click on button signUpWithGoogle",
+        "step 5: Click on link signInAlternative -> Navigate to page '/signin'",
+        "step 6: Click on button signInWithGoogle -> Navigate to page ''",
+        "step 7: Take full page screenshot as checkpoint"
+    ]
+}

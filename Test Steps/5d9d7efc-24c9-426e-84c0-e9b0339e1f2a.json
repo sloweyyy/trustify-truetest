@@ -1,0 +1,24 @@
+{
+    "steps": [
+        "step 1: Navigate to /pricing",
+        "step 2: Contact support and view pricing details multiple times",
+        "step 3: Click on div pricingTable",
+        "step 4: Click on link trustify -> Navigate to page '/'",
+        "step 5: Click on span price",
+        "step 6: Select document types and payment options multiple times",
+        "step 7: View comprehensive reports and additional options multiple times",
+        "step 8: Click on list features",
+        "step 9: Click on span congCuAinangCao",
+        "step 10: Click on span congCuAinangCao",
+        "step 11: Click on span congCuAinangCao",
+        "step 12: Click on span baoCaoToanDien",
+        "step 13: Click on button registerNow3",
+        "step 14: Click on span danhChoVpcc -> Navigate to page '/for-notary-offices'",
+        "step 15: Click on link traCuuHoSoCongChung -> Navigate to page '/notary/dashboard'",
+        "step 16: Click on span verificationResource -> Navigate to page '/notary/pending-notarization-documents'",
+        "step 17: Click on button viewDetails",
+        "step 18: Click on p phoneNumber",
+        "step 19: Click on p phoneNumber -> Navigate to page ''",
+        "step 20: Take full page screenshot as checkpoint"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "steps": [
+        "step 1: Navigate to /",
+        "step 2: Navigate through steps related to public services",
+        "step 3: Click on span publicNotice",
+        "step 4: Click on span canPublicServiceSignMultiplePeople",
+        "step 5: Click on span price",
+        "step 6: Click on span policy -> Navigate to page '/privacy-policy'",
+        "step 7: Click on span privacyPolicy",
+        "step 8: Click on span privacyPolicy",
+        "step 9: View terms of use and request a demo or download files",
+        "step 10: Click on button linkedIn",
+        "step 11: Click on link signIn -> Navigate to page '/signin'",
+        "step 12: Take full page screenshot as checkpoint"
+    ]
+}

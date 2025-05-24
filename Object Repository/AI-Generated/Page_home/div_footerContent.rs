@@ -30,6 +30,6 @@
         <name>data-testid</name>
         <type>Main</type>
         <value>footer-content</value>
-        <webElementGuid>0746614d-fcdb-4914-9a0f-9bbbddcfa573</webElementGuid>
+        <webElementGuid>07fd4749-9ab6-46a7-81ff-da839f42b489</webElementGuid>
     </webElementProperties>
 </WebElementEntity>
